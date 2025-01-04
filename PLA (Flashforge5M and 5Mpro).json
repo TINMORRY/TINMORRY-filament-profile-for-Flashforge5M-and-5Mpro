@@ -1,0 +1,27 @@
+{
+    "additional_cooling_fan_speed": [
+        "70"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "PLA(TINMORRY)"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Flashforge Generic PLA",
+    "name": "PLA(TINMORRY)",
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "version": "2.2.0.4"
+}
