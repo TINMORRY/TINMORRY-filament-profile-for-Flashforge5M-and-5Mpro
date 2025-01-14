@@ -1,0 +1,19 @@
+{
+    "enable_pressure_advance": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(Adventurer5M-Orca-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Flashforge Generic TPU",
+    "is_custom_defined": "0",
+    "name": "TPU(Adventurer5M-Orca-TINMORRY)",
+    "version": "2.2.0.4"
+}
