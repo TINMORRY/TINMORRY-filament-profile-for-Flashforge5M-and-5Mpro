@@ -1,0 +1,25 @@
+{
+    "filament_max_volumetric_speed": [
+        "7"
+    ],
+    "filament_settings_id": [
+        " PLA Silk(Adventurer 5M-Flash Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Flashforge PLA Silk",
+    "is_custom_defined": "0",
+    "name": " PLA Silk(Adventurer 5M-Flash Orca-TINMORRY)",
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.1.1.0"
+}

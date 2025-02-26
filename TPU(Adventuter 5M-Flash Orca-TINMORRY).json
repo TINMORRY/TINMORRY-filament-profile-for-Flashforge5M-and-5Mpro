@@ -1,0 +1,22 @@
+{
+    "enable_pressure_advance": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(Adventuter 5M-Flash Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Flashforge TPU 95A",
+    "is_custom_defined": "0",
+    "name": "TPU(Adventuter 5M-Flash Orca-TINMORRY)",
+    "version": "2.1.1.0"
+}
