@@ -1,0 +1,34 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "ABS-pro(Adventurer 5M pro-Orca-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Flashforge Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS-pro(Adventurer 5M pro-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "270"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "version": "2.2.0.4"
+}
